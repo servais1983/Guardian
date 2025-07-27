@@ -1,0 +1,35 @@
+# GUARDIAN - Fichiers à ignorer
+
+# Logs
+*.log
+logs/
+
+# Configurations sensibles
+.env
+.guardian_secure_config.json
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Tests
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp

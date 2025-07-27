@@ -1,0 +1,29 @@
+{
+  "target_networks": [
+    "192.168.1.0/24",
+    "10.0.0.0/24"
+  ],
+  "critical_ports": [
+    21,
+    22,
+    23,
+    25,
+    53,
+    80,
+    135,
+    139,
+    443,
+    445,
+    1433,
+    3306,
+    3389,
+    5432
+  ],
+  "scan_interval": 3600,
+  "baseline_file": "guardian_baseline.json",
+  "log_file": "guardian.log",
+  "threat_intel": "ThreatIntelConfig(virustotal_api_key=None, abuseipdb_api_key=None, shodan_api_key=None, use_malwarebazaar=True, use_threatfox=True, cache_ttl=24)",
+  "siem": "SiemConfig(enabled=False, export_format='json', export_directory='./siem_exports', min_severity_level='MEDIUM')",
+  "dashboard": "DashboardConfig(enabled=False, prometheus_enabled=False, prometheus_port=8000)",
+  "soar": "SoarConfig(enabled=False, slack_webhook=None, teams_webhook=None, auto_create_tickets=True, auto_notify_teams=True)"
+}

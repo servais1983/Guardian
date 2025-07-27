@@ -1,0 +1,25 @@
+# GUARDIAN - Requirements
+# Graphical User Attack Reconnaissance Defense Intelligence & Analysis Network
+
+# Core dependencies (required)
+python-nmap>=0.7.1
+requests>=2.28.0
+cryptography>=3.4.8
+aiohttp>=3.8.0
+
+# Dashboard & Metrics (optional but recommended)
+influxdb-client>=1.36.0
+prometheus-client>=0.16.0
+
+# SIEM Integrations (optional)
+elasticsearch>=8.0.0
+
+# Development & Testing (optional)
+pytest>=7.0.0
+pytest-asyncio>=0.20.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Documentation (optional)
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0 
