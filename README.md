@@ -1,3 +1,6 @@
+
+<img width="1024" height="1024" alt="image" src="guardian.png" />
+
 # 🛡️ GUARDIAN
 
 **Graphical User Attack Reconnaissance Defense Intelligence & Analysis Network**
