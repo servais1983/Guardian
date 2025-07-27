@@ -454,24 +454,7 @@ python guardian.py --config client2_config.json &
 
 ---
 
-## 🆘 Support
 
-### Documentation
-- **Wiki** : [https://github.com/votre-repo/guardian/wiki](https://github.com/votre-repo/guardian/wiki)
-- **API Reference** : [https://guardian-docs.example.com](https://guardian-docs.example.com)
-- **Tutoriels** : [https://guardian-tutorials.example.com](https://guardian-tutorials.example.com)
-
-### Community
-- **Issues** : [GitHub Issues](https://github.com/votre-repo/guardian/issues)
-- **Discussions** : [GitHub Discussions](https://github.com/votre-repo/guardian/discussions)
-- **Discord** : [GUARDIAN Community](https://discord.gg/guardian)
-
-### Support professionnel
-- **Email** : support@guardian-security.com
-- **Formation** : formation@guardian-security.com
-- **Consulting** : consulting@guardian-security.com
-
----
 
 ## 📝 Changelog
 
