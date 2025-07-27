@@ -425,37 +425,6 @@ spec:
           name: guardian-config
 ```
 
----
-
-## 📚 Exemples d'usage
-
-### Cas d'usage PME
-```bash
-# Configuration minimale pour PME
-python guardian.py --create-sample-config
-# Éditer : réseaux, emails, APIs gratuites
-python guardian.py --config config.json
-```
-
-### Cas d'usage Enterprise
-```bash
-# Configuration complète avec toutes intégrations
-python guardian.py --config enterprise_config.json
-# Inclut : SIEM, SOAR, dashboards, threat intel premium
-```
-
-### Cas d'usage MSSP
-```bash
-# Multi-tenant avec exports séparés
-python guardian.py --config client1_config.json &
-python guardian.py --config client2_config.json &
-# Dashboards centralisés, exports par client
-```
-
----
-
-
-
 ## 📝 Changelog
 
 ### Version 2.0 (Current)
