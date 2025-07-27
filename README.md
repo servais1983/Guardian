@@ -710,31 +710,6 @@ logrotate /etc/logrotate.d/guardian
 journalctl -u guardian -f
 ```
 
----
-
-## 📞 Contact et Support
-
-### 🆘 Support technique
-| Type | Canal | Délai de réponse |
-|------|-------|------------------|
-| **Bug critique** | GitHub Issues + Email | < 4h |
-| **Question technique** | Discord Community | < 24h |
-| **Demande de feature** | GitHub Discussions | < 7j |
-| **Formation** | Email direct | < 48h |
-
-### 🏢 Support Enterprise
-- **Implementation** : Déploiement sur-mesure
-- **Training** : Formation équipes techniques
-- **Custom development** : Développements spécifiques
-- **24/7 Support** : Support premium avec SLA
-
-### 📧 Contacts
-- **General** : contact@guardian-security.com
-- **Security** : security@guardian-security.com
-- **Business** : business@guardian-security.com
-- **Press** : press@guardian-security.com
-
----
 
 ## 🎉 Conclusion
 
