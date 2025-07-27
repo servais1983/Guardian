@@ -2,10 +2,10 @@
 
 **Graphical User Attack Reconnaissance Defense Intelligence & Analysis Network**
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/votre-repo/guardian)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/servais1983/Guardian)
 [![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/security-focused-red.svg)](https://github.com/votre-repo/guardian)
+[![Security](https://img.shields.io/badge/security-focused-red.svg)](https://github.com/servais1983/Guardian)
 
 > **Analyseur de Surface d'Attaque Dynamique** avec Threat Intelligence multi-sources, Export SIEM universel et Playbooks SOAR automatisés.
 
